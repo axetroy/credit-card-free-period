@@ -1,7 +1,7 @@
 ### 一个用于计算信用卡免息期的库
 
 ```ts
-import CreditCard from "credit-card-free-period";
+import { CardPlayer } from "card-player";
 
 const billingDate = 10; // 信用卡账单日
 const repaymentDate = 4; // 信用卡还款日
