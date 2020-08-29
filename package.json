@@ -1,13 +1,13 @@
 {
   "name": "card-player",
   "version": "1.0.0",
-  "description": "",
+  "description": "一个用于计算信用卡免息期的库",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
-  "author": "",
+  "author": "Axetroy",
   "license": "ISC",
   "dependencies": {
     "date-fns": "^2.5.0"
