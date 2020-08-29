@@ -8,3 +8,7 @@ const repaymentDate = 4; // 信用卡还款日
 
 console.log(`今日刷卡免息期: ${new CardPlayer(10, 4).freePeriod()}`);
 ```
+
+## License
+
+The [MIT License](LICENSE)
